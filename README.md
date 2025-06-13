@@ -1,5 +1,5 @@
 👋 Seja bem-vindo ao meu perfil!
-![Uploading wallpaper.png…]()
+
 ![3fc15279-a293-418e-9449-2fec8054c9ea](https://github.com/user-attachments/assets/4e522383-5b72-47d0-924b-45da2f4ebc1c)
 
 Sou o Eduardo Dias, estudante de TI e apaixonado por **Dados, Tecnologia e Eficiência Operacional**.
