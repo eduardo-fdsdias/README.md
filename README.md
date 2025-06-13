@@ -11,6 +11,7 @@ Atualmente, trabalho com monitoramento e análise operacional em uma empresa de 
  📊 Sobre mim
 
 🔎 **Curioso por natureza**, sempre busco entender o “porquê” por trás dos números e transformar dados brutos em decisões inteligentes.  
+🎻 **Violinista desde 2017**, atuo em orquestras e também ensino música na igreja.  
 💼 Tenho experiência prática com **logística, gerenciamento de risco, atendimento estratégico** e **monitoramento em tempo real**.  
 🎯 Meu foco é unir conhecimento técnico com visão de negócio para resolver problemas de forma analítica.
 
